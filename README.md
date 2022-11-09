@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhayMadaan9
-- 🌱 I’m currently learning MySQL, DAA,react,node JS
-- 💞️ I’m looking to collaborate on making full stack website 
+- 🌱 I’m currently working on MySQL,react framework ,node JS, php backend, larvel framework. 
+- 💞️ I’m looking to collaborate on making full stack website .
 
 <!---
 AbhayMadaan9/AbhayMadaan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
